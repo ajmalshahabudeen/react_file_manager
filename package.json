@@ -9,9 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@syncfusion/ej2-react-filemanager": "^25.1.40",
+    "next": "14.2.1",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.1"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "typescript": "^5",
